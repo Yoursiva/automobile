@@ -66,7 +66,7 @@ const Navbar = () => {
         </Flex>
         <Flex textColor="#656262" h='75px' padding="0px 10%" borderBottom="1px solid lightgray">
             <HStack w="80%">
-                <Box boxSize='sm' height="46px"width= "auto"><Image src={logo} alt="logo"  h="45px"/></Box>
+                <Box boxSize='sm' height="46px"width= "auto"><Image src='' alt="AM"  h="45px"/></Box>
                 <Box bg="yellow">
                 <InputGroup bg="yellow" pl="2rem">
                   <InputLeftElement
